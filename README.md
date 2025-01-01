@@ -4,7 +4,7 @@ A simple and fun lottery game where players can pick numbers and try to match th
 
 Features
 * Number Selection: Players can choose their numbers and submit them.
-* Random Winning Numbers: Winning numbers are generated dynamically.
+* Random Winning Numbers: The game generates winning numbers randomly for every round, ensuring unpredictability and fairness.
 * Result Evaluation: Automatically checks for matches to determine if you've won.
   
 How to Play
